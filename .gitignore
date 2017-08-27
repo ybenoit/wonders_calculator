@@ -98,4 +98,5 @@ data/
 train/
 *.iml
 notebooks/
-scripts/
+scripts/launch_artificial_training_examples_generation.sh
+
